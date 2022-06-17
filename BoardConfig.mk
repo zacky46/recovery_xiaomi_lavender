@@ -146,4 +146,8 @@ TW_NO_LEGACY_PROPS := true
 TW_MAX_BRIGHTNESS := 4095
 TW_DEFAULT_BRIGHTNESS := 1950
 #
+
+# whether to include python, for ABX xml conversion (change to true to enable)
+TW_INCLUDE_PYTHON := true
+#
 #
