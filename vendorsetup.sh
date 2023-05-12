@@ -30,7 +30,6 @@
         export OF_STATUS_H=80
         export OF_STATUS_INDENT_LEFT=58
         export OF_STATUS_INDENT_RIGHT=58
-  	export OF_HIDE_NOTCH=1
   	export OF_CLOCK_POS=1
 	export OF_USE_MAGISKBOOT=1
 	export OF_USE_MAGISKBOOT_FOR_ALL_PATCHES=1
